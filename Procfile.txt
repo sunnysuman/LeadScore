@@ -1,8 +1,0 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 13 20:12:42 2020
-
-@author: Arpita
-"""
-
-Procfileweb: gunicorn app:app
